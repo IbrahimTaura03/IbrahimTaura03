@@ -9,7 +9,9 @@ I am a motivated software engineering student with a strong interest in software
 ## 🔧 Technologies & Tools
 - Python, Java, C/C++, JavaScript  
 - HTML, CSS, XML  
-- MySQL, SQLite  
+- MySQL, SQLite
+- Figma
+- Node.js 
 - Object-Oriented Programming  
 - Data Structures & Algorithms  
 - Git & GitHub  
