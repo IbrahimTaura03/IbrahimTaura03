@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim 👋
 
-🎓 Software Engineering Student  
-💻 Aspiring Software Developer  
-🚀 Future Tech Entrepreneur  
+🎓 Software Engineering Student | Aspiring Software Developer  
+🚀 Passionate about problem-solving, building projects, and continuous learning  
+💡 Currently strengthening fundamentals with CS50 (Harvard)  
 
 I am a motivated software engineering student with a strong interest in software development, problem-solving, and building technology-driven solutions. I enjoy working on academic and practical projects using Python, Java, and web technologies.
 
@@ -28,5 +28,6 @@ I am a motivated software engineering student with a strong interest in software
 - Online Shopping Application (Java Swing, MySQL)
 - Academic Event Listing Website (HTML, CSS, JavaScript)
 
-## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/ibrahim-taura-6b40791b6/
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/ibrahim-taura-6b40791b6/  
+GitHub: https://github.com/IbrahimTaura03
