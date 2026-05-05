@@ -7,11 +7,14 @@
 I am a motivated software engineering student with a strong interest in software development, problem-solving, and building technology-driven solutions. I enjoy working on academic and practical projects using Python, Java, and web technologies.
 
 ## 🔧 Technologies & Tools
-- Python, Java, C/C++, JavaScript  
+- Python, Java, C/C++, JavaScript, Typescript
 - HTML, CSS, XML  
-- MySQL, SQLite
+- MySQL, SQLite, NeonDb, Pinecone
 - Figma
-- Node.js 
+- Node.js
+- Next.js
+- Bootstrap
+- Flask
 - Object-Oriented Programming  
 - Data Structures & Algorithms  
 - Git & GitHub  
